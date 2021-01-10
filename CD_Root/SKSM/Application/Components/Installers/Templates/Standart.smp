@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<SetupInfo Version="5.0">
+<Installer ID="">
+<Settings>
+<InstallerPath></InstallerPath>
+<CompressionMethod>LZMA</CompressionMethod>
+<CompressionLevel>9</CompressionLevel>
+<DictionarySize>7</DictionarySize>
+<UseMultiThreading>1</UseMultiThreading>
+<Solid>0</Solid>
+<ComponentsEnabled>0</ComponentsEnabled>
+<ConditionalInstallEnabled>0</ConditionalInstallEnabled>
+</Settings>
+<Info>
+<Standart>
+<Name></Name>
+<LocalizedName></LocalizedName>
+<Version></Version>
+<Author></Author>
+<Localizer></Localizer>
+<Copyrights></Copyrights>
+<Description></Description>
+<URL></URL>
+<OriginalURL></OriginalURL>
+<Discussion></Discussion>
+<Category>---</Category>
+</Standart>
+<Custom>
+</Custom>
+<Documents Default="">
+</Documents>
+<Videos>
+</Videos>
+</Info>
+<Files StructureType="1">
+</Files>
+<Interface WindowsSizeChangeEnabled="1">
+<WindowTitle>Установка - "%InstallerName%"</WindowTitle>
+<WindowSubtitle>%StepName%</WindowSubtitle>
+<Logo></Logo>
+<Images ScreenshotsEnabled="1">
+</Images>
+</Interface>
+<Requirements ShowCommonRequirements="0">
+<Set ID="Default" Operator="And">
+<Entry Type="BuiltIn">
+<ID>Skyrim</ID>
+<RequiredVersion></RequiredVersion>
+<Comment></Comment>
+</Entry>
+</Set>
+</Requirements>
+<Components>
+<RequiredFiles>
+</RequiredFiles>
+<Steps>
+</Steps>
+<Sets>
+</Sets>
+</Components>
+<INI>
+</INI>
+</Installer>
+</SetupInfo>
