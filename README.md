@@ -7,3 +7,4 @@ My first mod manager. Started as just a configurator for the Skyrim original rel
 # Package
 - Written in Lua using [AutoPlay Media Studio](https://www.indigorose.com/autoplay-media-studio/) v8.x.
 - Uses a lof of their party native plugins (binaries not included).
+- All the Lua code is inside `Skyrim Settings Manager.autoplay` (which is XML file, about 10-20% here) and the rest scattered inside many `*.api` files (ZIP archives with Lua files inside).
